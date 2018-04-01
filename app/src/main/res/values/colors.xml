@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimary">#856AEB</color>-->
+    <!--<color name="colorPrimary">#6740B4</color>-->
+    <!--<color name="colorPrimaryDark">#5133A4</color>-->
+    <color name="colorAccent">#FB5830</color>
+
+    <!--color light green-->
+    <!--<color name="colorPrimary">#00D386</color>-->
+    <!--<color name="colorPrimaryDark">#01BA76</color>-->
+
+    <!--color purple darkish-->
+    <!--<color name="colorPrimary">#673AB6</color>-->
+    <!--<color name="colorPrimaryDark">#532d99</color>-->
+
+
+    <!--bit dark blue-->
+    <!--<color name="colorPrimary">#039BE5</color>-->
+    <!--<color name="colorPrimaryDark">#027CB7</color>-->
+
+    <!--<color name="colorPrimary">#F1453D</color>-->
+    <!--<color name="colorPrimaryDark">#D93E37</color>    -->
+
+    <!--<color name="colorPrimary">#2099FF</color>-->
+    <!--<color name="colorPrimaryDark">#048BFE</color>-->
+
+    <color name="colorPrimary">#7C55FB</color>
+    <color name="colorPrimaryDark">#6221E6</color>
+
+    <!--good 2 purple-->
+    <!--<color name="colorPrimary">#673AB7</color>-->
+    <!--<color name="colorPrimaryDark">#5E35B1</color>-->
+
+    <!--good 2 red-->
+    <!--<color name="colorPrimary">#FF5E5E</color>-->
+    <!--<color name="colorPrimaryDark">#DD3131</color>-->
+
+    <!--good 2 black-->
+    <!--<color name="colorPrimary">#2E2E2E</color>-->
+    <!--<color name="colorPrimaryDark">#282828</color>-->
+
+</resources>
